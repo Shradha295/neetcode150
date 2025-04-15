@@ -1,3 +1,4 @@
+//https://neetcode.io/problems/duplicate-integer
 class Solution {
     public boolean hasDuplicate(int[] nums) {
       
